@@ -1,0 +1,20 @@
+.weather {
+	display: flex;
+	justify-content: center;
+}
+
+.weather__list {
+	list-style: none;
+	margin: 30px auto 0;
+	padding: 0;
+}
+
+.weather__listItem {
+	margin: 10px auto 0;
+	text-align: center;
+}
+
+.weather__temp {
+	font-size: 10em;
+	font-weight: 700;
+}
